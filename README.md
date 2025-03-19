@@ -26,7 +26,7 @@ A modern, secure password manager that helps you store and manage your credentia
 
 1. Clone and setup:
 ```bash
-git clone https://github.com/yourusername/secure-vault.git
+git clone https://github.com/ritikavyas/PASSWORD-MANAGER.git
 cd secure-vault
 npm install
 ```
@@ -81,9 +81,3 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ❤️ Support
-
-If you find this project helpful, consider supporting its development:
-- [GitHub Sponsors](https://github.com/sponsors/yourusername)
-- [Open Collective](https://opencollective.com/secure-vault)
